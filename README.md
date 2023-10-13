@@ -4,5 +4,6 @@
 
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
+[![Generic badge](https://img.shields.io/badge/SYTcraft-盛月堂-red.svg)](https://shields.io/)
 
 <img align="left" src="https://badges.toozhao.com/badges/01HCM5MW5CF8D6PZSNPJCEB7QR/green.svg">
